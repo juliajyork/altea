@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/rhbxhcypxa/altea-git
+    - /bin/cp -r * $DEPLOYPATH
+
