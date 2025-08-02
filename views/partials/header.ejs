@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<header class="header pad-bottom-05">
+	<nav class="position-absolute z1000 width-100">
+		<div class="box-blur-top pad-4 flex navigation-mobile justify-content-space-between align-items-center">
+			<a class="altea-logo block flex-direction-column-mobile" href="/<%= location ? location.toLowerCase() : '' %>/home"><img src="/img/altea-logo.png" alt="Altea Logo"></a>
+			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+				<li><a href="/<%= location ? location.toLowerCase() : '' %>/fitness">Fitness</a></li>
+				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+				<li><a href="/<%= location ? location.toLowerCase() : '' %>/club-tour">Club Tour</a></li>
+				<li class="position-relative location-reveal border-bone pad-1">
+                    Locations <span class="dropdown-arrow">▼</span>
+                    <ul class="position-absolute top-100 left-0 border-bone clr-bone width-100 p-body pad-y-1 location-content">
+                        <% allLocations.forEach(loc => { %>
+                            <li>
+                                <a href="/<%= loc.key %>"><%= loc.name %></a>
+                            </li>
+                        <% }) %>
+                    </ul>
+                </li>
+			</ul>
+		</div>
+	</nav>
+	<div style="position:relative;width:100%;height:100vh;">
+		<video class="header-video" autoplay loop muted playsinline>
+			<source src="/video/header.mp4" type="video/mp4">
+		</video>
+	</div>
+	<div class="video-overlay">
+		<div class="header-overlay box-blur pad-2">
+			<h2 class="title-pad-left clr-sand">Join <%= location %>'s Premier<br/>Fitness &amp Wellness Club&nbsp;</h2>
+		</div>
+	</div>
+</header>

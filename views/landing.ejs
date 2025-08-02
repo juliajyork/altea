@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+  <%- include('partials/head') %>
+  <body>
+    <%- include('partials/header') %>
+
+    <main>
+        <h1>Welcome to Our Fitness Club</h1>
+        <p>Please select your location:</p>
+        <ul>
+          <% allLocations.forEach(loc => { %>
+            <li><a href="/<%= loc.key %>"><%= loc.name %></a></li>
+          <% }) %>
+        </ul>
+    </main>
+
+    <%- include('partials/footer') %>
+  </body>
+</html>

@@ -1,0 +1,558 @@
+Error: Failed to lookup view "views/index" in views directory "/home/rhbxhcypxa/altea/views"
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:597:17)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:18:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:280:10)
+Error: Failed to lookup view "views/index" in views directory "/home/rhbxhcypxa/altea/views"
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:597:17)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:18:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:280:10)
+Error: Failed to lookup view "views/index" in views directory "/home/rhbxhcypxa/altea/views"
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:597:17)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:18:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:280:10)
+Error: Failed to lookup view "views/index" in views directory "/home/rhbxhcypxa/altea/views"
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:597:17)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:18:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:280:10)
+Error: Failed to lookup view "views/index" in views directory "/home/rhbxhcypxa/altea/views"
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:597:17)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:18:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:280:10)
+Error: Failed to lookup view "views/index" in views directory "/home/rhbxhcypxa/altea/views"
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:597:17)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:18:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:149:13)
+    at Route.dispatch (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/route.js:119:3)
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+    at /home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:284:15
+    at Function.process_params (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:346:12)
+    at next (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/index.js:280:10)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:11
+    9|       <p>Please select your location:</p>
+    10|       <ul>
+ >> 11|         <% locations.forEach(loc => { %>
+    12|           <li><a href="/<%= loc.key %>"><%= loc.name %></a></li>
+    13|         <% }) %>
+    14|       </ul>
+
+locations is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:8)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:37:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:11
+    9|       <p>Please select your location:</p>
+    10|       <ul>
+ >> 11|         <% locations.forEach(loc => { %>
+    12|           <li><a href="/<%= loc.key %>"><%= loc.name %></a></li>
+    13|         <% }) %>
+    14|       </ul>
+
+locations is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:8)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:37:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:11
+    9|       <p>Please select your location:</p>
+    10|       <ul>
+ >> 11|         <% locations.forEach(loc => { %>
+    12|           <li><a href="/<%= loc.key %>"><%= loc.name %></a></li>
+    13|         <% }) %>
+    14|       </ul>
+
+locations is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:8)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:37:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/home.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body class="<%= location.toLowerCase() %>">
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to the <%= location %> Location</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:17
+    15|                     Locations <span class="dropdown-arrow">▼</span>
+    16|                     <ul class="position-absolute top-100 left-0 border-bone clr-bone width-100 p-body pad-y-1 location-content">
+ >> 17|                         <% allLocations.forEach(loc => { %>
+    18|                             <li>
+    19|                                 <a href="/<%= loc.key %>"><%= loc.name %></a>
+    20|                             </li>
+
+allLocations is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:27:8)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:17)
+    at home (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/memberships.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body class="<%= location.toLowerCase() %>">
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7| <main>
+    8| 
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:17
+    15|                     Locations <span class="dropdown-arrow">▼</span>
+    16|                     <ul class="position-absolute top-100 left-0 border-bone clr-bone width-100 p-body pad-y-1 location-content">
+ >> 17|                         <% allLocations.forEach(loc => { %>
+    18|                             <li>
+    19|                                 <a href="/<%= loc.key %>"><%= loc.name %></a>
+    20|                             </li>
+
+allLocations is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:27:8)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:17)
+    at memberships (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:5
+    3|   <%- include('partials/head') %>
+    4|   <body>
+ >> 5|     <%- include('partials/header') %>
+    6| 
+    7|     <main>
+    8|       <h1>Welcome to Our Fitness Club</h1>
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:9
+    7| 			<a class="altea-logo block flex-direction-column-mobile" href="./views/pages/memberships.ejs"><img src="./public/img/altea-logo.png" alt="Altea Logo"></a>
+    8| 			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+ >> 9| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/philosophy">Our Philosophy</a></li>
+    10| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Fitness</a></li>
+    11| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/wellness">Wellness</a></li>
+    12| 				<li><a href="/<%= location ? location.toLowerCase() : '' %>/memberships">Memberships</a></li>
+
+location is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:12:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:15:17)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:11
+    9|       <p>Please select your location:</p>
+    10|       <ul>
+ >> 11|         <% locations.forEach(loc => { %>
+    12|           <li><a href="/<%= loc.key %>"><%= loc.name %></a></li>
+    13|         <% }) %>
+    14|       </ul>
+
+locations is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:8)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:39:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:11
+    9|       <p>Please select your location:</p>
+    10|       <ul>
+ >> 11|         <% locations.forEach(loc => { %>
+    12|           <li><a href="/<%= loc.key %>"><%= loc.name %></a></li>
+    13|         <% }) %>
+    14|       </ul>
+
+locations is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:8)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:39:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+ReferenceError: /home/rhbxhcypxa/altea/views/landing.ejs:11
+    9|       <p>Please select your location:</p>
+    10|       <ul>
+ >> 11|         <% locations.forEach(loc => { %>
+    12|           <li><a href="/<%= loc.key %>"><%= loc.name %></a></li>
+    13|         <% }) %>
+    14|       </ul>
+
+locations is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:8)
+    at landing (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+    at ServerResponse.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/response.js:1049:7)
+    at /home/rhbxhcypxa/altea/server.js:39:7
+    at Layer.handle [as handle_request] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/router/layer.js:95:5)
+ReferenceError: /home/rhbxhcypxa/altea/views/memberships.ejs:8
+    6| <body class="<%= location.toLowerCase() %>">
+    7|     
+ >> 8| <%- include('partials/header') %>
+    9|         
+    10| <main>
+    11| 
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:34
+    32| 	<div class="video-overlay">
+    33| 		<div class="header-overlay box-blur pad-2">
+ >> 34| 			<h2 class="title-pad-left clr-sand">Join <%= name %>'s Premier<br/>Fitness &amp Wellness Club&nbsp;</h2>
+    35| 		</div>
+    36| 	</div>
+    37| </header>
+
+name is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:41:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:17)
+    at memberships (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)
+ReferenceError: /home/rhbxhcypxa/altea/views/memberships.ejs:8
+    6| <body class="<%= location.toLowerCase() %>">
+    7|     
+ >> 8| <%- include('partials/header') %>
+    9|         
+    10| <main>
+    11| 
+
+/home/rhbxhcypxa/altea/views/partials/header.ejs:34
+    32| 	<div class="video-overlay">
+    33| 		<div class="header-overlay box-blur pad-2">
+ >> 34| 			<h2 class="title-pad-left clr-sand">Join <%= name %>'s Premier<br/>Fitness &amp Wellness Club&nbsp;</h2>
+    35| 		</div>
+    36| 	</div>
+    37| </header>
+
+name is not defined
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:41:26)
+    at header (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at include (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:701:39)
+    at eval (eval at compile (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:673:12), <anonymous>:18:17)
+    at memberships (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:703:17)
+    at tryHandleCache (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:274:36)
+    at View.exports.renderFile [as engine] (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/ejs/lib/ejs.js:491:10)
+    at View.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/view.js:135:8)
+    at tryRender (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:657:10)
+    at Function.render (/home/rhbxhcypxa/nodevenv/altea/14/lib/node_modules/express/lib/application.js:609:3)

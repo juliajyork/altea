@@ -1,0 +1,780 @@
+<!DOCTYPE html>
+<html lang="en">
+    
+<%- include('partials/head') %>
+
+<body class="<%= location.toLowerCase() %>">
+    
+<%- include('partials/header') %>
+        
+<main>
+
+<!--AMENITIES-->
+
+<div class="book-banner position-relative pad-y-6">
+	<div class="z10 position-relative text-align-center border-bone bg-clr-bone-gradient frosted-glass">
+		<h4 class="clr-sand pad-y-1 text-align-center title-pad-left">Canada's Largest Fitness<br>&amp Wellness Club 
+			<span class="clr-sand-70 lowercase p-header-sub italic"> (129,000 sq/ft!)</span></h4>
+		<p class="clr-sand p-title pad-bottom-1 border-top-bone">All Memberships Include:</p>
+	</div>
+	<div class="z0 book-banner-overlay position-absolute"></div>
+		<div class="z10 global-wrapper amenities center-x flex position-relative pad-y-4">
+			<div class="amenities-col flex amenities-blur flex-direction-column border-bone border-radius-20">
+				<a class="icon-cell flex align-items-center flex-direction-column">
+					<img class="amenities-icon" src="/img/fitness-icon.png" alt="fitness-icon"></a>
+				<ul>
+					<li><a class="p-body">8 Boutique Fitness Studios<br>
+						<span class="p-list-sub italic clr-bone-70">(offering 350+ classes per week)</span></a></li>
+					<li><a class="p-body">6 Indoor Pickleball Courts</a></li>
+					<li><a class="p-body">Expansive Strength + Cardio Training Space<br>
+						<span class="p-list-sub italic clr-bone-70">(Including 15 Squat Racks)</span></a></li>
+					<li><a class="p-body logo-cell">
+						<img style="height: 0.9em; padding-left: 0.1rem" src="/img/hydrox.png" alt="hydrox-logo">Performance Training Centre<br>
+							<span class="p-list-sub italic clr-bone-70">(Perfect for Training for Your Next HYROX Competition)</span></a></li>
+					<li><a class="p-body">Women’s Only Fitness Suite</a></li>
+				</ul>
+			</div>
+			<div class="amenities-col amenities-blur border-bone border-radius-20">
+				<a class="icon-cell flex align-items-center flex-direction-column"><img style="margin-top: 0.1rem" class="amenities-icon" src="/img/towel-icon.png" alt="towel-icon"></a>
+				<ul>
+					<li><a class="p-body logo-cell">
+						<img style="height: 1.4em" src="/img/aveda.png" alt="aveda-logo">Personal Care Products<br>
+						<span class="p-list-sub italic clr-bone-70">In Changerooms and Showers</span></a></li>
+					<li><a class="p-body">Lockers with Keyless Locks</a></li>
+					<li><a class="p-body">Sweat & Shower Towels Provided</a></li>
+					<li><a class="p-body">Shark Hair Dryers<br>
+						<span class="p-list-sub italic clr-bone-70">In Changerooms</span></a></li>
+				</ul>
+			</div>
+			<div class="amenities-col amenities-blur border-bone border-radius-20">
+				<a class="icon-cell flex align-items-center flex-direction-column"><img class="amenities-icon" src="/img/wellness-icon.png" alt="wellness-icon"></a>
+				<ul>
+					<li><a class="p-body">Recovery Lounge</a></li>
+					<li><a class="p-body">Steam Cabins</a></li>
+					<li><a class="p-body">Dry Saunas</a></li>
+					<li><a class="p-body">25M Lap Pool</a></li>
+					<li><a class="p-body">Hot Tub</a></li>
+				</ul>
+			</div>
+  			<div class="amenities-col amenities-blur border-bone border-radius-20">
+				<a class="icon-cell flex align-items-center flex-direction-column"><img style="height: 8.8rem; margin-top: 0.85rem" class="amenities-icon" src="/img/star-icon.png" alt="star-icon"></a>
+				<ul>
+					<li><a class="p-body">Complimentary On-Site Parking</a></li>
+					<li><a class="p-body">Smoothie Bar &amp Grab + Go</a></li>
+					<li><a class="p-body">Active Kids Club<br>
+						<span class="p-list-sub italic clr-bone-70">On-Site Supervised Child Minding, Birthday Parties & Camps</span></a></li>
+					<li><a class="p-body logo-cell">Full Service
+							<span><img style="width: 12rem; height: 2rem" src="/img/starbucks.png" alt="starbucks-logo"></span></a>
+					</li>
+				</ul>
+			</div>
+		</div>
+<!--TOUR BANNER-->
+		<div class="pad-y-6 global-wrapper flex-direction-column text-align-center">
+			<div class="pad-top-2 center-x width-100 border-bone border-radius-20 box-blur">
+				<h4 class="banner-text width-100 frosted-glass position-relative text-shadow-dark clr-sand text-shadow-dark">Book A Club Tour</h4>
+				<div class="button p-header text-shadow-dark width-100 center-x" href="https://alteaactive.com/ottawa/club-tour/">Book Now</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</section>
+<section class="bg-clr-dark pad-y-6">
+
+<!--PRICING-->
+
+<div class="global-wrapper pad-y-1 border-radius-20 width-75 text-align-center align-items-center">
+	<h5 class="frosted-glass bg-clr-bone-gradient pad-y-2 border-bottom-sand font-weight-300 clr-sand text-shadow-dark"><strong>Compare Membership Tiers</strong></h5>
+	<p class="pad-y-1 clr-gray p-body italic">Choose the Level of Access That’s Right for You!</p>
+	<div class="width-100 pad-top-4 position-relative border-radius-20">
+		<div class="pricing-table">
+			<div class="tier frosted-glass bg-clr-brown border-sand border-radius-20 text-align-center">
+				<h3 class="clr-sand tier-title border-top-radius-20 text-shadow pad-top-1 pad-bottom-05">Gold</h3>
+				<ul class="bg-clr-black border-bottom-radius-20">
+					<div class="pad-bottom-1 pad-top-1 bg-clr-bone-gradient border-top-dark">
+						<li style="text-transform: uppercase; font-size: 2rem;" class="p-list">2 Day<br>
+						<span class="p-list-sub italic clr-bone-70">Booking Window</span></li>
+					</div>
+					<li class="p-list pad-top-1">6 Boutique Fitness Studios<br>
+						<span class="p-list-sub italic clr-bone-70">350+ Classes Per Week</span></li>
+					<li class="p-list">LF3 Workout Library<br>
+						<span class="p-list-sub italic clr-bone-70">Online & On Demand</span></li>
+					<li class="p-list ">LF3 RX: Initial Body Composition Analysis<br>
+						<span class="p-list-sub italic clr-bone-70">+ 7 day Personalized Plan</span></li>
+					<li class="p-list clr-bone-20"><strike>Accountability Check-Ins and Re-Analysis</strike><br>
+						<span class="p-list-sub italic clr-bone-20">Eveery 8 Weeks</span></li>
+					<li class="p-list clr-bone-20"><strike>Reformer Pilates Classes</strike><br>
+						<span class="p-list-sub italic clr-bone-20">6 Classes Every 2 Weeks</span></li>
+					<li class="p-list clr-bone-20"><strike>5 Guest Passes</strike><br>
+						<span class="p-list-sub italic clr-bone-20">*One-time $250 Value</span></li>
+					<li class="p-list clr-bone-20"><strike>Membership Freeze Privileges</strike><br>
+						<span class="p-list-sub italic clr-bone-20">12 Weeks Every 12 Months</span></li>
+					<li class="p-list clr-bone-20"><strike>Multi-Club Access</strike><br>
+						<span class="p-list-sub italic clr-bone-20">Access to all Altea Clubs accross Canada</span></li>
+					<li class="p-list clr-bone-20 pad-bottom-1"><strike>Recovery Lounge Perks</strike><br>
+						<span class="p-list-sub italic clr-bone-20">6 Sessions Every 2 Weeks</span></li>
+				</ul>
+			</div>
+			<div class="tier frosted-glass bg-clr-gray border-sand border-radius-20 text-align-center">
+				<div class="ribbon position-absolute z1 text-align-right">
+					<span class="p-header text-shadow-light clr-brown position-absolute bold block text-align-center">Best Value</span>
+				</div>
+				<h3 class="clr-sand tier-title text-shadow pad-top-1 pad-bottom-05">Diamond</h3>
+				<ul class="bg-clr-black border-bottom-radius-20">
+					<div class="bg-clr-bone-gradient pad-top-1 pad-bottom-1 border-top-dark">
+						<li style="text-transform: uppercase; font-size: 2rem;" class="p-list">7 Day<br>
+						<span class="p-list-sub italic clr-bone-70">Booking Window</span></li>
+					</div>
+					<li class="p-list pad-top-1">8 Boutique Fitness Studios<br>
+						<span class="p-list-sub italic clr-bone-70">350+ Classes Per Week</span></li>
+					<li class="p-list">LF3 Workout Library<br>
+						<span class="p-list-sub italic clr-bone-70">Online & On Demand</span></li>
+					<li class="p-list ">LF3 RX: Initial Body Composition Analysis<br>
+						<span class="p-list-sub italic clr-bone-70">+ 7 day Personalized Plan</span></li>
+					<li class="p-list">Accountability Check-Ins and Re-Analysis<br>
+						<span class="p-list-sub italic clr-bone-70">Every 8 Weeks</span></li>
+					<li class="p-list ">Reformer Pilates Classes<br>
+						<span class="p-list-sub italic clr-bone-70">6 Classes Every 2 Weeks</span></li>
+					<li class="p-list">5 Guest Passes<br>
+						<span class="p-list-sub italic clr-bone-70">*One-time $250 Value</span></li>
+					<li class="p-list">Membership Freeze Privileges<br>
+						<span class="p-list-sub italic clr-bone-70">12 Weeks Every 12 Months</span></li>
+					<li class="p-list">Multi-Club Access<br>
+						<span class="p-list-sub italic clr-bone-70">Access to all Altea Clubs accross Canada</span></li>
+					<li class="p-list pad-bottom-1">Recovery Lounge Perks<br>
+						<span class="p-list-sub italic clr-bone-70">6 Sessions Every 2 Weeks</span></li>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div>
+</div>
+
+</section>
+<section class="bg-clr-dark pad-top-4 pad-bottom-1">
+
+<!-- FITNESS -->
+
+<div class="global-wrapper margin-top-6 width-75">
+	<div class="bg-clr-bone">
+	<h5 class="pad-05 bg-clr-dark clr-sand">Fitness</h5>
+		<div class="bg-clr-black pad-1 border-bone-dark">
+			<div class="member-table bg-clr-dark-gradient p-y-1">
+				<div class="bg-clr-dark clr-sand">
+					<div class="member-row clr-bone">
+						<p style="padding-left: 0.6rem;" class="member-item clr-sand text-shadow p-header align-items-center">8 Boutique Fitness Studios<br>
+							<span class="p-body-sub">(350+ classes per week)</span></p>
+						<p class="pricing-item p-tier text-shadow clr-brown justify-content-center">Gold</p>
+						<p class="pricing-item p-tier text-shadow clr-gray justify-content-center">Diamond</p>
+					</div>
+					<div class="member-row p-header bg-clr-bone-20 justify-content-flex-end">
+						<p style="padding-left: 0.6rem;" class="member-item p-body clr-sand-70 align-items-center">Booking Window</p>
+						<p class="member-item p-body clr-sand-70 flex align-items-center justify-content-center">2 Days</p>
+						<p class="member-item p-body clr-sand-70 flex align-items-center justify-content-center">7 Days</p>
+					</div>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item logo-cell">
+						<img style="width: 3em;" class="logo" src="/img/lf3-icon.png" alt="lf3-icon"><strong>LF3</strong> Functional Strength &amp Conditioning<br>
+							<span class="p-body-sub">Small Group Training</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="cross" size="16"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item logo-cell">
+						<img style="width: 3em;" class="logo" src="/img/lf3-icon.png" alt="lf3-icon"><strong>LF3</strong> Treadmill &amp HIIT Classes<br>
+							<span class="p-body-sub">High Intensity Interval Training</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">Reformer <strong>Pilates</strong><br><span class="p-body-sub">Balanced Body Allegro 2 Pilates Reformer</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="cross" size="16"></ui-icon></p>
+					<p class="member-item p-body-sub justify-content-center flex align-items-center">6 Classes Every 2 Weeks</p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Strength Studio</strong><br><span class="p-body-sub">Metabolic Conditioning &amp HIIT Classes</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Cycle</strong> | Beat & Metric Based<br><span class="p-body-sub">Cycling Shoes (Shimano SPD-SL) Provided</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Boxing</strong><br><span class="p-body-sub">Complimentary Boxing Gloves</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Hot Studio</strong><br><span class="p-body-sub">Mat Pilates &amp Yoga Classes</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Fusion</strong> Studio<br><span class="p-body-sub">Barre, Yoga &amp Mat Pilates</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+
+			<!-- ANALYSIS/ACCOUNTABILITY -->
+
+				<div class="member-row clr-bone border-bone bg-clr-dark-70 frosted-glass-white">
+					<p class="member-item clr-sand text-shadow p-header">Personalization, Accountablity &amp; Results</p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item logo-cell">
+						<img style="width: 3em;" class="logo" src="/img/lf3-icon.png" alt="lf3-icon">LF3 RX: <strong>Body Composition</strong> Analysis<br>
+						<span class="p-body-sub">+ 7 Day Personalized Plan</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item logo-cell">
+						<img style="width: 3em;" class="logo" src="/img/lf3-icon.png" alt="lf3-icon">Accountability <strong>Check-Ins</strong> + Body Composition Analysis<br>
+							<span class="p-body-sub">Every 8 Weeks</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="cross" size="16"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">Personal Training Sessions</p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="dollar" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="dollar" size="18"></ui-icon></p>
+				</div>
+			
+		<!-- PICKLEBALL -->
+
+				<div class="member-row clr-bone border-bone bg-clr-dark-70">
+					<p class="member-item member-item-header-push clr-sand text-shadow p-header">Pickleball Club</p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">6 <strong>Indoor</strong> Courts</p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">Pickleball <strong>Social Play</strong></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">Pickleball <strong>Clinics</strong></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+			</div>
+			</div>
+
+		<!-- WELLNESS -->
+
+			<h5 class="pad-05 bg-clr-dark clr-sand pad-top-4">Wellness</h5>
+			<div class="member-table bg-clr-black pad-1 border-bone-dark center-x">
+			<!-- Recovery & Relaxation -->
+				<div class="member-row bg-clr-dark-70 clr-sand border-bone">
+					<p class="member-item p-header">Recovery &amp Relaxation Lounge</p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Recovery</strong> Pod Sessions<br><span class="p-body-sub">Normatec + Zero Gravity Chair</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="dollar" size="18"></ui-icon></p>
+					<p class="member-item p-body-sub justify-content-center flex align-items-center">6 Sessions Every 2 Weeks</p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Relaxation</strong> Pod Sessions<br><span class="p-body-sub">Human Touch Massage Chair</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="dollar" size="18"></ui-icon></p>
+					<p class="member-item p-body-sub justify-content-center flex align-items-center">6 Sessions Every 2 Weeks</p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Steam</strong> Cabin &amp Dry Sauna</p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+			<!-- Aquatics -->
+				<div class="member-row bg-clr-dark-70 clr-sand border-bone align-items-center">
+					<p class="member-item p-header member-item-header-push">Aquatics</p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">Lap <strong>Pool</strong><br><span class="p-body-sub">25m in Length</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Hot Tub</strong></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">Family Swim<br><span class="p-body-sub">Additional Fee for Children &amp Guests</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>KidsCanSwim</strong> Canada<br><span class="p-body-sub">Special Rate for Lessons</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+			<!-- ACTIVE KIDS CLUB -->
+				<div class="member-row bg-clr-dark-70 clr-sand border-bone align-items-center">
+					<p class="member-item p-header member-item-header-push">Active Kids Club</p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">On Site Supervised <strong>Child Minding</strong></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="dollar" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="dollar" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">Birthday Parties, Camps &amp Special Events</p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="dollar" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="dollar" size="18"></ui-icon></p>
+				</div>
+
+		<!-- ADDITIONAL PRIVLEDGES -->
+
+				<div class="member-row clr-sand border-bone bg-clr-dark-70 ">
+					<p class="member-item p-header member-item-header-push">Additional Benefits</p></div>
+				<div class="member-row p-body">
+					<p class="member-item"><strong>Multi-Club</strong> Access<br><span class="p-body-sub">Access to all Altea Clubs accross Canada</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item logo-cell">
+						<span><img class="logo" src="/img/lf3-icon.png" alt="lf3-icon">LF3 On Demand <strong>Workourt Library</strong></span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">Membership <strong>Freeze</strong> Privilege<br><span class="p-body-sub">12 Weeks Per 12 Month Period</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="cross" size="16"></ui-icon></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="check" size="18"></ui-icon></p>
+				</div>
+				<div class="member-row p-body">
+					<p class="member-item">Complimentary <strong>Guest Passes</strong><br><span class="p-body-sub">One Time Offer</span></p>
+					<p class="member-item flex justify-content-center align-items-center"><ui-icon type="cross" size="16"></ui-icon></p>
+					<p class="member-item p-body-sub text-align-center justify-content-center flex align-items-cente">5 Passes<br>($250 Value)</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</section>
+<section class="bg-clr-black border-top-sand">
+
+<div class="global-wrapper bg-clr-black border-radius-20 pad-top-2">
+	<div class="border-radius-20 frosted-glass pad-05 center-x">
+		<div class="pricing-row">
+			<h5 class="pricing-item pad-top-1 clr-sand text-align-left">Pricing</h5>
+			<p class="pricing-item p-tier text-shadow-dark clr-brown justify-content-center border-top-left-radius-20">Gold</p>
+			<p class="pricing-item p-tier text-shadow-dark clr-gray justify-content-center border-top-right-radius-20">Diamond</p>
+		</div>
+		<div class="bg-clr-dark-gradient border-bottom-left-radius-20">
+			<div class="member-table border-top-radius-20 border-bottom-left-radius-20">
+				<div class="pricing-row p-header bg-clr-bone-20">
+					<p class="pricing-item p-body clr-sand-70 justify-content-center">Booking Window</p>
+					<p class="pricing-item p-body clr-sand-70 justify-content-center">2 Days</p>
+					<p class="pricing-item p-body clr-sand-70 justify-content-center">7 Days</p>
+				</div>
+				<div class="pricing-row p-body">
+					<p class="pricing-item pad-left-1">Recurring Payment<br>
+						<span class="p-list-sub italic pad-top-1">(Once Every 2 Weeks)</span></p>
+					<p style="font-size: 2.6rem;" class="pricing-item p-body font-weight-500 text-align-center justify-content-center">$72.99<br>
+					<p style="font-size: 2.6rem;" class="pricing-item p-body font-weight-500 text-align-center justify-content-center">$119.99</p>
+				</div>
+				<div class="pricing-row p-body">
+					<p class="pricing-item">One-Time Initiation Fee<br>
+					<p style="font-size: 2rem;" class="pricing-item p-body italic text-align-center justify-content-center">+ $119.99</p>
+					<p style="font-size: 2rem;" class="pricing-item p-body italic text-align-center justify-content-center">+ $119.99</p>
+				</div>
+				<div class="member-row p-body">
+					<p class="pricing-item">*Minimum Commitment</p>
+					<p style="font-size: 1.2rem; text-transform: uppercase;" class="pricing-item p-body text-align-center justify-content-center">12 Months</p>
+					<p style="font-size: 1.2rem; text-transform: uppercase;" class="pricing-item p-body text-align-center justify-content-center">12 Months</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+<div class="z10 global-wrapper position-relative width-100">
+	<div class=" center-x">
+		<div class="pricing-row pad-05">
+			<p class="pricing-item"></p>
+			<p class="pricing-button border-bottom-radius-20 "><a class="button border-box-groove p-tier block clr-sand text-shadow" href="https://myaltea.club/shop/products/prod_mZ9msxWLGsCP39v7efRj">Reserve</a></p>
+			<p class="pricing-button border-bottom-radius-20 "><a class="button border-box-groove p-tier block clr-sand text-shadow" href="https://myaltea.club/shop/products/prod_mZ9msxWLGsCP39v7efRj">Reserve</a></p>
+		</div>
+	</div>
+</div>
+<div class="center-x pad-y-4 text-align-center">
+	<p class="clr-sand p-header pad-bottom-1"><h3 class="pad-bottom-2">*Looking For More Flexibility?</h3></p>
+	<div class="dropdown-card tier">
+		<button class="dropdown-toggle pad-bottom-1 justify-content-center flex-direction-column">
+			<ui-icon class="arrows" type="arrows" size="30"></ui-icon></button>
+		<div class="dropdown-content center-x pad-1 border-radius-20">
+			<div class="border-radius-20 bg-clr-black border-bone-groove">
+			<h3 class="clr-bone tier-title text-shadow pad-bottom-1 pad-top-2">Diamond-Flex</h3>
+				<ul>
+					<li style="text-transform:uppercase; font-size: 1.8rem; padding: 1rem;" class="bg-clr-bone-gradient p-list border-bottom-sand">7 Day<br>
+						<span class="p-list-sub clr-bone-70">Booking Window</span></li>
+					<li style="font-size: 2.6rem; padding: 2rem;" class="p-list border-bottom-sand">$119.99<br>
+						<span class="p-list-sub clr-bone-70">Recurring Payment</span></li>
+					<li style="font-size: 2rem; padding: 2rem;" class="p-list italic border-bottom-sand">+ $119.99<br>
+						<span class="p-list-sub italic clr-bone-70">One-Time Initiation Fee</span></li>
+					<li style="font-size: 1.8rem; padding: 1rem;text-transform:uppercase;" class="p-list border-bottom-sand">12 Weeks<br>
+						<span class="p-list-sub clr-bone-70">Minimum Commitment</span></li>
+				</ul>	
+				<a class="bg-clr-dark button border-box-groove p-tier block clr-bone" href="https://myaltea.club/shop/products/prod_mZ9msxWLGsCP39v7efRj?_gl=1*1wl9i1d*_gcl_au*MTAzNjcxOTYxMy4xNzUyODQ5MTA0*FPAU*MTAzNjcxOTYxMy4xNzUyODQ5MTA0*_ga*MTg3NjQxNTcxMC4xNzUyODQ5MTA1*_ga_S2RM652HP0*czE3NTI4NTI3NzQkbzIkZzEkdDE3NTI4NTI4MTIkajIyJGwwJGg2ODI4MzEzMDQ.*_fplc*Z08xVzhnVnZOVHQxem1WUW1ub29DYk5XeFV4bnpzTHlWM3BHQ2FPS2JrRDlZYVI1OGZkUjl6cXRlUlFGT2FQNHNGZDNyRzNOTlklMkZNV0JwcUEweUhqVXV3YWVUczdOeGNjN0xIT1ZudDlSSUklMkZveEdwdUVyeSUyRlNuVElaMzF3JTNEJTNE">Reserve</a>
+			</div>
+		</div>
+	</div>
+</div>
+
+</section>
+<section>
+
+<div class="banner position-relative background-size-cover text-align-center flex flex-direction-column justify-content-center">
+	<div class="banner-overlay"></div>
+	<div class="pad-top-2 banner-text position-relative bg-clr-black-20 border-sand">
+		<h4 style="font-size: 4rem;text-transform: none;" class="clr-sand text-shadow-dark font-weight-500">Have More Questions?</h4>
+		<div class="button box-blur p-header width-20 text-shadow-dark center-x" href="https://alteaactive.com/ottawa/club-tour/">Book A Tour</div>
+	</div>
+</div>
+
+</section>
+<section class="pad-top-6 pad-bottom-2 bg-clr-black">
+
+<!-- REVIEWS -->
+<h3 style="text-transform: none;" class="clr-sand global-wrapper pad-bottom-1 pad-top-2 border-top-radius-20 center-x bg-blur text-align-center border-sand font-weight-500 pad-2">Hear From Our Members</h3>
+<div class="global-wrapper width-80">
+	<div class="review-carousel bg-clr-dark border-bottom-radius-20 border-sand pad-1">
+		<button class="reviewButton z10 box-shadow bg-clr-dark-20 amenities-blur overflow-hidden clr-gray" id="prevRev">&#10094;</button>
+		<button class="reviewButton z10 box-shadow bg-clr-dark-20 amenities-blur overflow-hidden clr-gray" id="nextRev">&#10095;</button>
+		<div class="width-100 review-bg pad-x-4 pad-y-2 bg-blur-black overflow-hidden">
+			<div class="review-container p-faq-header font-weight-300">
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/i2zi6aHHy1JgSns76" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Aboulfazl S.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							I am incredibly satisfied with my experience at Altea Gym. The gym is always clean and well-organized, creating a great environment for working out. The facilities are well-maintained, and the overall atmosphere is welcoming.
+						</span>
+						<span class="hidden-text">
+							I especially love the Tempo Cycle classes, which I attend between 4-6 times a week, and sometimes even twice a day! The classes are challenging yet rewarding, and I always feel motivated to push myself further.
+						</span>
+						<a href="#" class="toggle-btn">See more</a>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/tV5ys6X77RmFqv2x6" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Selin B.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							Really enjoying my experience at Altea so far. I’m glad to have gotten my membership through Vanessa who has been great at onboarding myself, my husband and my brother-in-law. She’s always positive, friendly, and helpful to all three of us. 
+						</span>	
+						<span class="hidden-text">
+							It’s a pleasure seeing her around the gym as she keeps us up to date on the latest offerings! My husband and I recently I signed up for personal training too and are very much enjoying having Billy and Iman as our PT guides in this new health-kick journey. What I love the most about Altea is that they have pre-natal and post-natal courses, as well as peri-menopause and menopause to cater a healthy lifestyle to all stages of a woman’s life. Not to mention the sauna and steam room and recovery room that has had a very positive impact on my skin and endurance. My only regret is not getting a founding membership when they first opened up!
+						</span>
+						<a href="#" class="z100 toggle-btn">See more</a>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/YyW3AtjGCaV1Dfid7" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Alex T.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							Altea is such a joy to go to. Everything is impeccably clean and the ambiance is phenomenal. I feel incredibly well taken care of from the moment I walk in. The variety of classes on offer is fantastic  
+						</span>
+						<span class="hidden-text">
+							and the scheduling allows accessibility to everything on offer, even for those with complicated shift work schedules like myself. I have liked every instructor I have had so far, but I have to give a special shout-out to Jean (yoga). Her caring personality and expertise has helped me go deeper into my practice and I am really feeling the benefits.
+						</span>
+						<a href="#" class="z100 toggle-btn">See more</a>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/7RDYCd77trKHuMpA6" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Josee B.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							I am really enjoying my Membership at Altea. There is such a variety of classes that you can push yourself one day then take it slower the next. The staff in all areas of the club (reception, classes, change room, etc) are always friendly and helpful. 
+						</span>
+						<span class="hidden-text">
+							I also trained with Alex G and she is fantastic. She constantly tailored our exercise program meeting my individual needs. That meant sometimes exercises took longer to understand or when I was able to add more weights and keep pushing. For anyone interested in doing personal training, I highly recommend you sign up with Alex.
+						</span>
+						<a href="#" class="z100 toggle-btn">See more</a>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/PnYQFDEWMSHrvjyDA" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>J. Seb</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							Altea is hands down one of the best gyms I’ve been to. The space is super clean and well-maintained, and the equipment is top-notch everything you need whether you’re lifting, doing cardio, or taking a fitness class.
+						</span>
+						<span class="hidden-text">
+							They offer a wide range of classes, so there’s always something new to try, from high-intensity workouts to spin class or yoga. The pool is a huge bonus great for unwinding or getting in a few laps. Plus, having towel service is such a nice touch and makes the whole experience feel more premium.
+						</span>
+						<a href="#" class="z100 toggle-btn">See more</a>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/vHCUTQL4HHFjnw5Z7" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Rodney B.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							Very grateful for Tolu at Altea Fitness for his help with my membership and his  amazing customer service experience!  The gym is clean, well-equipped, and perfect for reaching your goals. Highly recommend!
+						</span>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/SaqUhnRovxoQATsw5" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p><strong>Luana P.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							Having a gym like Altea in Ottawa is truly one of the best things to happen to the city. With an incredible variety of activities, including a sauna, cycling, pickleball (which I’m obsessed with), and more, it’s impossible not to want to spend time here, especially during the colder months.
+						</span>
+						<span class="hidden-text">
+							I was eagerly anticipating the grand opening, and I’m thrilled they delivered on time before the New Year. It’s an exceptional addition to the city!
+						</span>
+						<a href="#" class="z100 toggle-btn">See more</a>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/o9y6SicSFGi4yxF49" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Olivia H.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							Love this gym! I’ve been going for months and as an all-inclusive membership gym, it delivers! I like to do a lot of hybrid training so the strength area and Hyrox training section is great. The turf area and rigs are great for bodyweight training. I’ve been loving the spin and pilates classes!
+						</span>
+						<span class="hidden-text">
+							Rachel is my favourite pilates instructor—great music and a good burn! For spin classes the room is incredible—cool events, great lighting, and solid electronic playlists. The staff is wonderful and the gym is sooo clean.
+						</span>
+						<a href="#" class="z100 toggle-btn">See more</a>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/MKKFyGqkxjPyPj1W6" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Danielle</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							It’s so nice to have such a beautiful health club in Ottawa! A fun escape from reality after work or school Also ROXANA who is the barista at the smoothie bar is the BEST! She’s so nice and makes the yummiest, healthy drinks!
+						</span>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/znJwZfNoKaVCH7fY8" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Sylvie C.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							My husband and I have been members at Ottawa’s ALTEA since its opening in November 2024. Foremost, we would like to mention the excellent service we have received from Sal at the front desk.
+						</span>
+						<span class="hidden-text">
+							We had been out of country when the facilities opened and missed the orientation and some pertinent information. We approached Sal with several questions requiring some detailed explanation and Sal responded to each one of our concerns. Thank you so much for the great knowledge and excellent service you provided us with.
+						</span>
+						<a href="#" class="z100 toggle-btn">See more</a>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/AEmcKafNLxXVMdc29" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Carmay W.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							Nothing but positive vibes for this new Altea Gym. Staff, classes, equipment, facilities, ammenites are great. The staff are super nice and have made lotsa friends.
+						</span>
+						<span class="hidden-text">
+							I’m a social being so I’m glad there are a lot of areas for meeting folk and forming community. Lots of lounge chairs.
+						</span>
+					</div>
+				</div>
+				<div class="review-item">
+					<div class="review-stars flex flex-direction-row justify-content-space-between">
+						<ul>
+							<li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li><li><i class="star"></i></li>
+						</ul>
+						<a href="https://maps.app.goo.gl/TGaHksoBLCeMcfWF8" class="google-logo"><img class="logo" src="/img/google.png" alt="google-logo"></a>
+					</div>
+					<p class="pad-bottom-05"><strong>Johnny R.</strong></p>
+					<div class="collapsible-text">
+						<span class="visible-text">
+							Incredible facility with tons of amenities. Front desk staff was super welcoming + friendly - shoutout Chelsea who makes Altea feel like home. Community is awesome, love to see the classes full with great members.
+						</span>
+						<span class="hidden-text">
+							Strange to see people going nuts in reviews about the classes as Altea just opened and the excitement is real.
+						</span>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+</section>
+<section class="pad-y-6">
+
+<div class="pad-bottom-4 bg-clr-dark border-bone text-align-center">
+	<h3 class="pad-4 clr-sand">Learn more about our community</h3>
+	<div class="social ">
+		<ul class="justify-content-center">
+			<li>
+				<a class="facebook" href="https://www.facebook.com/altea.ottawa">
+				<span></span><span></span><span></span><span></span>
+				<img src="/img/facebook.png" alt="Facebook">
+				</a>
+			</li>
+			<li>
+				<a class="tiktok" href="https://www.tiktok.com/@alteaactive?is_from_webapp=1&sender_device=pc">
+				<span></span><span></span><span></span><span></span>
+				<img src="/img/tiktok.png" alt="TikTok">
+				</a>
+			</li>
+			<li>
+				<a class="instagram" href="https://www.instagram.com/altea.ottawa">
+				<span></span><span></span><span></span><span></span>
+				<img style="width: 6.4rem" src="/img/instagram.png" alt="Instagram">
+				</a>
+			</li>
+			<li>
+				<a class="linkedin" href="https://www.linkedin.com/company/altea-active">
+				<span></span><span></span><span></span><span></span>
+				<img src="/img/linkedin.png" alt="Linkedin">
+				</a>
+			</li>
+		</ul>
+	</div>
+</div>
+
+</section>
+<section class="pad-y-6 bg-clr-black">
+
+<!-- FAQ -->
+
+<div class="text-align-left pad-bottom-2 justify-content-center">
+	<h2 class="pad-y-2 clr-sand text-align-center">FAQ</h2>
+		<details class="frosted-glass-white width-60 center-x">
+			<summary class="p-faq-header bg-clr-dark-70 pad-1">Can members of Altea Ottawa access other Altea clubs?
+			</summary>
+				<div class="p-faq pad-2 bg-clr-dark-20 font-weight-300">
+					<p class="pad-bottom-1">Gold Memberships allow members to access their Home Club location only.  Should a Gold member wish to visit another Altea location, they will receive a 50% discount on that club’s member guest pass rate.</p>
+					<p class="pad-bottom-1">Platinum and Diamond level memberships permit a member to access their Home Club and all other Altea club locations. 70% of visits (club check-ins and reservations) must be at the member’s Home Club Location in any rolling 30-day period.</p>
+					<p class="pad-bottom-1">Your first visit must be at your Home Club location. Visits that exceed this threshold will trigger a membership home location transfer. All-Club Access is defined as access to all Altea Club Locations (AVANT by Altea locations are excluded).</p>
+					<p> *Membership member are specific to your home club and access may vary across other locations.</p>
+				</div>
+		</details>
+		<details class="frosted-glass-white width-60 center-x">
+			<summary class="p-faq-header bg-clr-dark-70 pad-1">Is there parking available?</summary>
+				<div class="p-faq pad-2 bg-clr-dark-20">
+					<p class="pad-bottom-1">Yes, complimentary parking is available to members of Altea.</p>
+					<p>Pro tip – Leaving the club and need to get to the 417? Turn left onto Clyde Ave N when exiting the club parking at the lights. You can then turn right onto Woodward Dr, right again onto Maitland Ave to access both the East and West 417 onramps.</p>
+				</div>
+		</details>
+		<details class="frosted-glass-white width-60 center-x">
+			<summary class="p-faq-header bg-clr-dark-70 pad-1">What are the hours of operation?</summary>
+				<p class="p-faq pad-2 bg-clr-dark-20">Yes, we are a pet-friendly community. Certain restrictions and fees may apply.</p>
+		</details>
+		<details class="frosted-glass-white width-60 center-x">
+			<summary class="p-faq-header bg-clr-dark-70 pad-1">What is a fitness + wellness club?</summary>
+				<div class="p-faq pad-2 bg-clr-dark-20">
+					<p class="pad-bottom-1">Altea's main focus is to strike the necessary balance between Health + Wellness + Community, the most important aspects of maintaining longevity, happiness and connection.</p>
+					<p class="pad-bottom-1">Our classes, amenities and services are designed to strengthen your physical, social and mental well-being.</p>
+					<p class="pad-bottom-05">At Altea Ottawa, everything is offered under one roof:</p>
+					<ul class="p-faq pad-2 list-style-type pad-left-4">
+						<li> 9 boutique fitness studios offering 350 classes per week, including a dedicated Reformer Pilates studio and 2 exclusive LF3 Small Group Training Studios</li>
+						<li>Best-in-class personal and small group training</li>
+						<li>State-of-the-art cardio and strength equipment, including 17 Squat Racks equipped with Olympic Lifting Platforms</li>
+						<li>Luxurious changerooms featuring steam cabins and saunas</li>
+						<li>Family-focused Active Kids Club, featuring a 500 sq ft Mini Gym</li>
+						<li>Aquatics centre with a 25 metre lap pool, hot tub and children’s pool</li>
+						<li>An indoor pickleball club with 6 courts</li>
+						<li>A full-service Starbucks and Smoothie Bar</li>
+						<li>An exclusive women’s fitness suite</li>
+					</ul>
+				</div>
+		</details>
+		<details class="frosted-glass-white width-60 center-x">
+			<summary class="p-faq-header bg-clr-dark-70 pad-1">Where is Altea Ottawa located?</summary>
+				<div class="p-faq pad-2 bg-clr-dark-20">
+					<p class="pad-bottom-1">Altea Ottawa is located at 1660 Carling Avenue, Ottawa, ON, K2A 1C5</p>
+					<p class="pad-bottom-1">The entrance to the club is located behind the building, accessible via Clyde Ave N.</p> 
+					<p>
+						<a href="https://maps.app.goo.gl/tyZByFvW7deJEw4q7">View map</a></p>
+				</div>
+		</details>
+		<details class="frosted-glass-white width-60 center-x">
+			<summary class="p-faq-header bg-clr-dark-70 pad-1">Is there a pickleball only membership?</summary>
+				<div class="p-faq pad-2 bg-clr-dark-20">
+					<p class="pad-bottom-1">Our spaces are designed with the purpose of making different areas of fitness and wellness easily accessible to you. The key to both is not just one lone element, but the prioritization it's multi-facetted nature.</p>
+					<p class="pad-bottom-1">We want you to be able to prepare for, play and recover from pickleball sessions, and help build up your strength &amp balance. With that in mind, all our membership tiers are all-inclusive.</p>
+				</div>
+		</details>
+		<details class="frosted-glass-white width-60 center-x">
+			<summary class="p-faq-header bg-clr-dark-70 pad-1">Is there a pool only membership?</summary>
+				<p class="p-faq bg-clr-dark-20 pad-2">All our memberships include access to our Aquatics Facility.</p>
+		</details>
+	</div>
+</div>
+</section>
+
+</main>
+
+<%- include('partials/footer') %>
+
+<script src="/js/reviews.js"></script>
+<script src="/js/icon-component.js"></script>
+<script src="/js/toggle-tier.js"></script>
+
+</body>
+</html>
