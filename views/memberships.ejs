@@ -1,11 +1,67 @@
 <!DOCTYPE html>
 <html lang="en">
     
-<%- include('partials/head') %>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Ottawa – Memberships</title>
+    <link rel="stylesheet" href="/css/style.css">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
 
-<body class="<%= location.toLowerCase() %>">
+
+<body class="ottawa bg-clr-black">
     
-<%- include('partials/header') %>
+<!DOCTYPE html>
+<html lang="en">
+
+<header class="header pad-bottom-05">
+	<nav class="position-absolute z1000 width-100">
+		<div class="box-blur-top pad-4 flex navigation-mobile justify-content-space-between align-items-center">
+			<a class="altea-logo block flex-direction-column-mobile" href="/ottawa/home"><img src="/img/altea-logo.png" alt="Altea Logo"></a>
+			<ul class="p-menu menu position-relative flex align-items-center gap-middle-6 text-align-center flex-direction-row flex-direction-column-mobile">
+				<li><a href="/ottawa/philosophy">Our Philosophy</a></li>
+				<li><a href="/ottawa/fitness">Fitness</a></li>
+				<li><a href="/ottawa/wellness">Wellness</a></li>
+				<li><a href="/ottawa/memberships">Memberships</a></li>
+				<li><a href="/ottawa/club-tour">Club Tour</a></li>
+				<li class="position-relative location-reveal border-bone pad-1">
+                    Locations <span class="dropdown-arrow">▼</span>
+                    <ul class="position-absolute top-100 left-0 border-bone clr-bone width-100 p-body pad-y-1 location-content">
+                        
+                            <li>
+                                <a href="/ottawa">Ottawa</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/toronto">Toronto</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/montreal">Montreal</a>
+                            </li>
+                        
+                            <li>
+                                <a href="/vancouver">Vancouver</a>
+                            </li>
+                        
+                    </ul>
+                </li>
+			</ul>
+		</div>
+	</nav>
+	<div style="position:relative;width:100%;height:100vh;">
+		<video class="header-video" autoplay loop muted playsinline>
+			<source src="/video/header.mp4" type="video/mp4">
+		</video>
+	</div>
+	<div class="video-overlay">
+		<div class="header-overlay box-blur pad-2">
+			<h2 class="title-pad-left clr-sand">Join Ottawa's Premier<br/>Fitness &amp Wellness Club&nbsp;</h2>
+		</div>
+	</div>
+</header>
         
 <main>
 
@@ -663,7 +719,7 @@
 </div>
 
 </section>
-<section class="pad-y-6">
+<section class="pad-top-6 pad-bottom-2">
 
 <div class="pad-bottom-4 bg-clr-dark border-bone text-align-center">
 	<h3 class="pad-4 clr-sand">Learn more about our community</h3>
@@ -698,7 +754,7 @@
 </div>
 
 </section>
-<section class="pad-y-6 bg-clr-black">
+<section class="pad-y-4 bg-clr-black">
 
 <!-- FAQ -->
 
@@ -770,11 +826,67 @@
 
 </main>
 
-<%- include('partials/footer') %>
+<footer class="site-footer bg-clr-dark clr-bone">
+	<div class="footer-container text-align-center justify-content-center">
+		<div class="footer-logo flex flex-direction-column justify-content-center align-items-center">
+			<a href="/ottawa/home">
+				<img src="/img/altea-logo.png" alt="Altea Active">
+			</a>
+			<div class="flex flex-direction-row pad-1 justify-content-center">
+				<a class="pad-05" href="https://www.facebook.com/altea.ottawa">
+					<img style="width: 4rem" src="/img/facebook2.png" alt="Facebook">
+				</a>
+				<a class="pad-05" href="https://www.tiktok.com/@alteaactive?is_from_webapp=1&sender_device=pc">
+					<img style="width: 4rem" src="/img/tiktok2.png" alt="TikTok">
+				</a>
+				<a class="pad-05" href="https://www.instagram.com/altea.ottawa">
+					<img style="width: 4rem" src="/img/instagram2.png" alt="Instagram">
+				</a>
+				<a class="pad-05" href="https://www.linkedin.com/company/altea-active">
+					<img style="width: 4rem" src="/img/linkedin2.png" alt="Linkedin">
+				</a>
+			</div>
+		</div>
+		<div class="p-header">
+			<p><a href="https://alteaactive.com/ottawa/faq/">FAQ</a></p>
+			<p><a href="https://alteaactive.com/">Find A Club</a></p>
+			<p><a href="https://alteaactive.com/club-etiquette/">Club Etiquette</a></p>
+			<p><a href="https://alteaactive.com/careers/">Careers</a></p>
+			<p><a href="https://alteaactive.com/ottawa/contact/">Contact Us</a></li></p>
+		</div>
+		<div class="">
+			<p class="p-header">Explore</p>
+			<ul class="p-footer">
+				<li><a href="/ottawa/philosophy">Our Philosophy</a></li>
+				<li><a href="/ottawa/fitness">Fitness</a></li>
+				<li><a href="/ottawa/wellness">Wellness</a></li>
+				<li><a href="/ottawa/memberships">Memberships</a></li>
+				<li><a href="/ottawa/club-tour">Club Tour</a></li>
+			</ul>
+		</div>
+	</div>		
+	<div class="flex justify-content-center p-footer text-align-center">
+		<p>&copy; <script>document.write(new Date().getFullYear())</script> Altea Active. All rights reserved.</p>
+		<div class="dropdown">
+  			<div class="dropdown-toggle">
+				<p>Land Acknowledgement</p>
+			</div>
+			<div class="dropdown-content">
+				<p>Altea acknowledges that our community, located in Ottawa, is on the unceded, unsurrendered Territory of the Anishinaabe Algonquin Nation, whose presence here reaches back to time immemorial. We recognize the Algonquins as the customary keepers and defenders of the Ottawa River Watershed and its tributaries. We honour their long history of welcoming many Nations to this beautiful territory and uphold and uplift the voice and values of our Host Nation.
+We respect and affirm the Treaty Rights of all Indigenous Peoples across this land, acknowledge the harms and mistakes of the past, and dedicate ourselves to moving forward in partnership with Indigenous communities in a spirit of reconciliation and collaboration.</p>
+			</div>
+		</div>
+		<ul class="legal-links">
+			<li><a href="https://alteaactive.com/ottawa/privacy-policy/">Privacy Policy</a></li>
+			<li><a href="https://alteaactive.com/ottawa/accessibility-policy/">Accessibility Policy</a></li>
+		</ul>
+	</div>
+</footer>
 
 <script src="/js/reviews.js"></script>
 <script src="/js/icon-component.js"></script>
 <script src="/js/toggle-tier.js"></script>
+<script src="/js/text-dropdown.js"></script>
 
 </body>
 </html>
