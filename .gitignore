@@ -3,4 +3,7 @@ node_modules/
 *.log
 .DS_Store
 *.swp
-
+# Ignore large binary assets
+public/fonts/
+public/img/
+public/video/

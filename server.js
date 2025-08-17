@@ -66,7 +66,6 @@ app.get('/:location/:page?', (req, res) => {
   res.render(page);
 });
 
-// Run on cPanel's required IP
-app.listen(process.env.PORT || 3000, '127.0.0.1', () => {
+app.listen(3000, '0.0.0.0', () => {
   console.log('Server running...');
 });
